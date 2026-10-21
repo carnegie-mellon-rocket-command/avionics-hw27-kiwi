@@ -2,9 +2,239 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 297671c8-3551-4118-92b1-deb87cab12e1)
+	(uuid "297671c8-3551-4118-92b1-deb87cab12e1")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 129.54 86.36)
+		(size 77.47 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0330f3d0-2b5d-4e75-91ab-7f32b2268b09")
+		(property "Sheetname" "RF and Antenna"
+			(at 129.54 85.6484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RF_Antenna.kicad_sch"
+			(at 129.54 109.8046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "avionics-hw27-kiwi-detonator"
+				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 130.81 34.29)
+		(size 74.93 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "09d9418e-25ef-415e-8953-0e0207956d8a")
+		(property "Sheetname" "Detonator"
+			(at 130.81 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Detonator.kicad_sch"
+			(at 130.81 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "avionics-hw27-kiwi-detonator"
+				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 102.87 121.92)
+		(size 31.75 21.59)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4e4f52f9-ad99-40ba-9e6f-1b23b86bd70f")
+		(property "Sheetname" "Speaker"
+			(at 102.87 121.2084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "speaker.kicad_sch"
+			(at 102.87 144.0946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "avionics-hw27-kiwi-detonator"
+				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 34.29)
+		(size 73.66 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "70be0f88-e6ab-48fa-8f81-9b2fa839b442")
+		(property "Sheetname" "Transciever Board"
+			(at 31.75 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "transceiver.kicad_sch"
+			(at 31.75 62.8146 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "avionics-hw27-kiwi-detonator"
+				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 85.09)
+		(size 72.39 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "91f2ca15-a0ca-44f0-9bbf-4455a5651867")
+		(property "Sheetname" "Power Supply"
+			(at 31.75 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 31.75 111.0746 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "avionics-hw27-kiwi-detonator"
+				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
+					(page "3")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
