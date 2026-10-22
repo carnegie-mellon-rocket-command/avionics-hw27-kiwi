@@ -144,52 +144,6 @@
 		)
 	)
 	(sheet
-		(at 31.75 34.29)
-		(size 73.66 27.94)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0)
-		)
-		(uuid "70be0f88-e6ab-48fa-8f81-9b2fa839b442")
-		(property "Sheetname" "Transciever Board"
-			(at 31.75 33.5784 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "transceiver.kicad_sch"
-			(at 31.75 62.8146 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "avionics-hw27-kiwi-detonator"
-				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
-					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 31.75 85.09)
 		(size 72.39 25.4)
 		(exclude_from_sim no)
@@ -231,6 +185,52 @@
 			(project "avionics-hw27-kiwi-detonator"
 				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 31.75 33.02)
+		(size 73.66 27.94)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a4d32962-9eaf-42fe-ab2b-104f5fbd091d")
+		(property "Sheetname" "Transciever"
+			(at 31.75 32.3084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "transciever.kicad_sch"
+			(at 31.75 61.5446 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "avionics-hw27-kiwi-detonator"
+				(path "/297671c8-3551-4118-92b1-deb87cab12e1"
+					(page "2")
 				)
 			)
 		)
