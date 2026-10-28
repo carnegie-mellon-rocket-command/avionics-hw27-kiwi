@@ -456,6 +456,10 @@
     [
       "4e4f52f9-ad99-40ba-9e6f-1b23b86bd70f",
       "Speaker"
+    ],
+    [
+      "bfc6a383-ad8c-4d15-8051-6bec16f48204",
+      "Microcontroller"
     ]
   ],
   "text_variables": {},
