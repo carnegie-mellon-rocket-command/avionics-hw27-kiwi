@@ -1068,6 +1068,153 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 50.8 73.66) (xy 38.1 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1477f1fa-d5dc-4e10-862a-c26d2af1b50a")
+	)
+	(wire
+		(pts
+			(xy 50.8 101.6) (xy 35.56 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "200f0d05-1f43-4133-b4e6-3691d409bf67")
+	)
+	(wire
+		(pts
+			(xy 50.8 104.14) (xy 38.1 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "373396e4-4f7e-411c-b6b2-fc948a6992f7")
+	)
+	(wire
+		(pts
+			(xy 50.8 99.06) (xy 34.29 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e467ef2-b960-4400-af11-59f9d3f8b764")
+	)
+	(wire
+		(pts
+			(xy 50.8 66.04) (xy 36.83 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e500d2bf-5750-471d-9355-fb8436370f96")
+	)
+	(wire
+		(pts
+			(xy 50.8 68.58) (xy 38.1 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2a8c8a3-8c9e-4678-b4b8-9e334aeb2eff")
+	)
+	(wire
+		(pts
+			(xy 50.8 71.12) (xy 38.1 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3bca9b4-7130-442b-b25d-8488e33449fb")
+	)
+	(hierarchical_label "SPI_NSS"
+		(shape output)
+		(at 36.83 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0eed8089-e840-4e56-b086-2530df36abf8")
+	)
+	(hierarchical_label "LORA_NRESET"
+		(shape output)
+		(at 34.29 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "11cb67ab-a923-4845-b9ed-1b9c367d5653")
+	)
+	(hierarchical_label "SPI_MISO"
+		(shape input)
+		(at 38.1 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "15ff0b3f-e6b9-42b3-98ee-ce213c3c22f9")
+	)
+	(hierarchical_label "SPI_SCK"
+		(shape output)
+		(at 38.1 68.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "181dad8a-7b5d-4f74-affc-f41f51c4ad03")
+	)
+	(hierarchical_label "LORA_BUSY"
+		(shape input)
+		(at 35.56 101.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4c61a3c0-e2f8-4d88-bd22-e91171fb8130")
+	)
+	(hierarchical_label "LORA_DIO1"
+		(shape bidirectional)
+		(at 38.1 104.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "93ce09c4-f722-4f5f-86d0-d828c1781be4")
+	)
+	(hierarchical_label "SPI_MOSI"
+		(shape output)
+		(at 38.1 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c9628209-87e6-4f49-8e21-9bafa337a0f8")
+	)
 	(symbol
 		(lib_id "2026-10-21_22-14-18:STM32G071CBT6")
 		(at 160.02 57.15 0)

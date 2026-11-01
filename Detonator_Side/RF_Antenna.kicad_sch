@@ -135,7 +135,7 @@
 	)
 	(symbol
 		(lib_id "Device:Antenna")
-		(at 128.27 109.22 0)
+		(at 105.41 72.39 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -146,7 +146,7 @@
 		(fields_autoplaced yes)
 		(uuid "664fcced-daba-4a49-9b8d-13abcd4bf414")
 		(property "Reference" "AE1"
-			(at 130.81 108.5849 0)
+			(at 107.95 71.7549 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -157,7 +157,7 @@
 			)
 		)
 		(property "Value" "Antenna"
-			(at 130.81 111.1249 0)
+			(at 107.95 74.2949 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -168,7 +168,7 @@
 			)
 		)
 		(property "Footprint" "Package_LCC:PLCC-84_29.3x29.3mm_P1.27mm"
-			(at 128.27 109.22 0)
+			(at 105.41 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -179,7 +179,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 109.22 0)
+			(at 105.41 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -190,7 +190,7 @@
 			)
 		)
 		(property "Description" "Antenna"
-			(at 128.27 109.22 0)
+			(at 105.41 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
