@@ -803,6 +803,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Switching Frequency: 500 kHz\nInput Ripple Voltage: 400 mV\nEfficiency: 88.9% "
+		(exclude_from_sim no)
+		(at 158.75 75.565 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "17749037-a363-4f41-99e4-ee6664fc59e9")
+	)
+	(text "5V, 2A"
+		(exclude_from_sim no)
+		(at 195.58 86.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "576f8d25-73bb-4296-a8be-844fa1e75a4f")
+	)
 	(text "8V ~ 28V"
 		(exclude_from_sim no)
 		(at 80.772 83.82 0)
